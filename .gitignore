@@ -1,0 +1,13 @@
+*.cmd
+*.o
+*.ko
+.vscode/
+*.log
+*.tmp
+*.mod
+*.swp
+*.mod.c
+*.symvers
+*.order
+*.dts
+*.dts.tmp
